@@ -32,4 +32,4 @@ A simple and responsive job search web application designed to provide an easy-t
 This project is licensed under the [MIT License](LICENSE).
 
 ---
-Designed for IIT Kharagpur's job portal by [Your Name/Team].
+Designed for IIT Kharagpur's job portal by Suryavansham Sahoo.
