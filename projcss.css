@@ -367,6 +367,91 @@ body {
     cursor: pointer;
 }
 
-.item-2 ul:hover {
-    color: red; /* Change this to your desired hover color */
+footer .footer-section .footer-column a:hover{
+  color: red; /* Change this to your desired hover color */
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+footer {
+  background-color: #f9f9f9;
+  padding: 20px;
+  font-family: Arial, sans-serif;
+  font-size: 14px;
+  color: #333;
+}
+
+.footer-section {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 20px;
+}
+
+.footer-column {
+  flex: 1;
+  margin: 0 15px;
+}
+
+.footer-column h4 {
+  font-size: 16px;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.footer-column a {
+  display: block;
+  color: #1a73e8;
+  text-decoration: none;
+  margin-bottom: 5px;
+}
+
+.footer-column a:hover {
+  text-decoration: underline;
+}
+
+.footer-column p {
+  line-height: 1.5;
+  margin-bottom: 10px;
+}
+
+.footer-bottom {
+  text-align: center;
+  border-top: 1px solid #ddd;
+  padding-top: 10px;
+}
+
+.footer-bottom a {
+  margin: 0 10px;
+  color: #1a73e8;
+  text-decoration: none;
+}
+
+.footer-bottom a:hover {
+  text-decoration: underline;
 }
